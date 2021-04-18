@@ -1,3 +1,7 @@
+# Don't use a fork - it is public.  
+Instead import the repo via https://github.com/new/import and set it as private before pressing import
+
+
 # Assignment 2: Mixing functional and imperative code
 
 Previously, we've talked about how we can describe a changing system
